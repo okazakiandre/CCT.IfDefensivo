@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCT.IfDefensivo.App", "CCT.IfDefensivo.App\CCT.IfDefensivo.App.csproj", "{E2F30290-9E98-42E3-AA1C-C536DD814D33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCT.IfDefensivo.UnitTest", "CCT.IfDefensivo.UnitTest\CCT.IfDefensivo.UnitTest.csproj", "{7D09CDD0-2EE7-48FF-907B-94D66ACD6E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2F30290-9E98-42E3-AA1C-C536DD814D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F30290-9E98-42E3-AA1C-C536DD814D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F30290-9E98-42E3-AA1C-C536DD814D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F30290-9E98-42E3-AA1C-C536DD814D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D09CDD0-2EE7-48FF-907B-94D66ACD6E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D09CDD0-2EE7-48FF-907B-94D66ACD6E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D09CDD0-2EE7-48FF-907B-94D66ACD6E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D09CDD0-2EE7-48FF-907B-94D66ACD6E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AD1770-CD36-4A92-BB18-A66BFFDC6E09}
+	EndGlobalSection
+EndGlobal

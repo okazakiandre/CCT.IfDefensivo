@@ -1,0 +1,27 @@
+﻿CCT - Ifs "defensivos"
+=======================
+
+- Como esse conhecimento te ajuda?
+  - código sem brechas
+  - testes mais assertivos
+  - menos bugs
+
+- Mostrar código
+
+- Por que é um problema?
+  - deixa o código com brechas para bugs
+    - às vezes é pior do que gerar exception
+  - induz ao teste viciado
+  - cria hábitos ruins de programação defensiva
+
+- Como resolver
+  - não adianta só colocar um else
+  - não valide por validar, entenda o contexto
+  - faça perguntas ("e se", "o que acontece se")
+  - cubra com testes
+
+- Conclusão
+  - cuidado com a programação defensiva
+  - não teste olhando só para o código
+  - leia (e entenda) o requisito
+  - fale com o cliente

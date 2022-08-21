@@ -1,0 +1,16 @@
+﻿CCT - Ifs "defensivos"
+=======================
+
+- Como esse conhecimento te ajuda?
+  - código sem brechas
+  - testes mais assertivos
+  - menos bugs
+
+- Mostrar código
+
+- Por que é um problema?
+  - deixa o código com brechas para bugs
+    - às vezes é pior do que gerar exception
+  - induz ao teste viciado
+  - cria hábitos ruins de programação defensiva
+

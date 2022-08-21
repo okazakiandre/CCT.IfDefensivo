@@ -1,0 +1,10 @@
+﻿CCT - Ifs "defensivos"
+=======================
+
+- Como esse conhecimento te ajuda?
+  - código sem brechas
+  - testes mais assertivos
+  - menos bugs
+
+- Mostrar código
+
